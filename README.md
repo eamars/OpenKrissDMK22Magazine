@@ -11,6 +11,15 @@ The magazine is designed to recreate the Kriss DMK22C 10/15 round magazine with 
 * 2x M3x6 FHCS (CSK)
 * 8x M3x5x4 Heatset Insert. 
 
+## Print Settings
+
+* Main Material: Any, except for abrasive CF/GF infused materials. 
+* 0.2mm layer height.
+* 4x walls
+* 5x tops and bottoms layers.
+* 0.4~0.45mm line width
+* 15% infill.
+
 ## Limiter
 
 > **Disclaimer:** I'm not responsible for any illegal modification to the 10 round limiter judged by your local laws and regulations. 
