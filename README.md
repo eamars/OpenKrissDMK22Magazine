@@ -6,7 +6,7 @@ The magazine is designed to recreate the Kriss DMK22C 10/15 round magazine with 
 
 ## BOM
 
-* 1x Kriss DMK22C 10/15 magazine spring (dimension to be given later if you want to source the spring yourself)
+* 1x Kriss DMK22C 10/15 magazine spring （0.6mm WD, 9mm OD, 250mm in Length)
 * 6x M3x18 SHCS
 * 2x M3x6 FHCS (CSK)
 * 8x M3x5x4 Heatset Insert. 
