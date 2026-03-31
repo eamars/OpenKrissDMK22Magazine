@@ -6,6 +6,18 @@ The magazine is designed to recreate the Kriss DMK22C 10 round magazine with all
 
 I will add design of 10/15 and 10/25 magazine support in the future. 
 
+## Field Replaceable Feed Lip
+
+![feedlip](feedlip.png)
+
+The feed lip can be replaced without needing to remove the spring or the follower. All you need is to 
+
+1. Remove 2x M3x6 FHCS screws. 
+
+2. Push the follower slightly downwards, then slide the feed lip forward slightly to disengage from the main body. 
+
+3. Replace the feed lip by reversing step 2 and 1. 
+
 ## BOM
 
 * 1x Kriss DMK22C 10/15 magazine spring (0.6mm WD, 9mm OD, 250mm in Length)
